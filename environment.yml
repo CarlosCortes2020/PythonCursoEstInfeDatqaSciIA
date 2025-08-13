@@ -8,4 +8,5 @@ dependencies:
   - numpy
   - pandas
   - python
+  - ipykernel
 prefix: /home/ccortes/anaconda3/envs/CursoEstInfeDataSciIA
