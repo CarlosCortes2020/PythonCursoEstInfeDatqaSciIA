@@ -1,0 +1,11 @@
+name: CursoEstInfeDataSciIA
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - python
+prefix: /home/ccortes/anaconda3/envs/CursoEstInfeDataSciIA
